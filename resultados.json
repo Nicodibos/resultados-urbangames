@@ -1,0 +1,202 @@
+{
+  "grupo_a": [
+    {
+      "equipo": "LA MERCED",
+      "pj": 5,
+      "goles_mas": 14,
+      "goles_menos": 5,
+      "dif": 9,
+      "puntos": 15
+    },
+    {
+      "equipo": "CHAMPAGNAT",
+      "pj": 4,
+      "goles_mas": 8,
+      "goles_menos": 3,
+      "dif": 5,
+      "puntos": 8
+    },
+    {
+      "equipo": "SALESIANO",
+      "pj": 4,
+      "goles_mas": 8,
+      "goles_menos": 8,
+      "dif": 0,
+      "puntos": 5
+    },
+    {
+      "equipo": "MARIA REINA",
+      "pj": 4,
+      "goles_mas": 9,
+      "goles_menos": 9,
+      "dif": 0,
+      "puntos": 4
+    },
+    {
+      "equipo": "MAGISTER",
+      "pj": 4,
+      "goles_mas": 6,
+      "goles_menos": 7,
+      "dif": -1,
+      "puntos": 4
+    },
+    {
+      "equipo": "CRISTO SALVADOR",
+      "pj": 4,
+      "goles_mas": 3,
+      "goles_menos": 13,
+      "dif": -10,
+      "puntos": 0
+    }
+  ],
+  "grupo_b": [
+    {
+      "equipo": "SRC",
+      "pj": 4,
+      "goles_mas": 10,
+      "goles_menos": 5,
+      "dif": 5,
+      "puntos": 10
+    },
+    {
+      "equipo": "MARKHAM",
+      "pj": 4,
+      "goles_mas": 5,
+      "goles_menos": 2,
+      "dif": 3,
+      "puntos": 10
+    },
+    {
+      "equipo": "RAMIREZ BARINAGA",
+      "pj": 4,
+      "goles_mas": 9,
+      "goles_menos": 6,
+      "dif": 3,
+      "puntos": 7
+    },
+    {
+      "equipo": "SANTA MARIA",
+      "pj": 4,
+      "goles_mas": 7,
+      "goles_menos": 4,
+      "dif": 3,
+      "puntos": 7
+    },
+    {
+      "equipo": "HORACIO PATINO",
+      "pj": 4,
+      "goles_mas": 3,
+      "goles_menos": 7,
+      "dif": -4,
+      "puntos": 0
+    },
+    {
+      "equipo": "RECOLETA",
+      "pj": 4,
+      "goles_mas": 2,
+      "goles_menos": 12,
+      "dif": -10,
+      "puntos": 0
+    }
+  ],
+  "grupo_c": [
+    {
+      "equipo": "SAN AGUSTIN",
+      "pj": 4,
+      "goles_mas": 13,
+      "goles_menos": 0,
+      "dif": 13,
+      "puntos": 12
+    },
+    {
+      "equipo": "CLARETIANO",
+      "pj": 4,
+      "goles_mas": 14,
+      "goles_menos": 3,
+      "dif": 11,
+      "puntos": 10
+    },
+    {
+      "equipo": "NSE",
+      "pj": 4,
+      "goles_mas": 11,
+      "goles_menos": 9,
+      "dif": 2,
+      "puntos": 7
+    },
+    {
+      "equipo": "ROSENTHAL",
+      "pj": 4,
+      "goles_mas": 6,
+      "goles_menos": 7,
+      "dif": -1,
+      "puntos": 3
+    },
+    {
+      "equipo": "AMERICA",
+      "pj": 4,
+      "goles_mas": 3,
+      "goles_menos": 13,
+      "dif": -10,
+      "puntos": 3
+    },
+    {
+      "equipo": "TRENER",
+      "pj": 4,
+      "goles_mas": 2,
+      "goles_menos": 16,
+      "dif": -14,
+      "puntos": 0
+    }
+  ],
+  "grupo_d": [
+    {
+      "equipo": "INMACULADA",
+      "pj": 4,
+      "goles_mas": 14,
+      "goles_menos": 6,
+      "dif": 8,
+      "puntos": 9
+    },
+    {
+      "equipo": "CARMELITAS",
+      "pj": 4,
+      "goles_mas": 11,
+      "goles_menos": 0,
+      "dif": 11,
+      "puntos": 8
+    },
+    {
+      "equipo": "POLO JIMENEZ",
+      "pj": 4,
+      "goles_mas": 11,
+      "goles_menos": 4,
+      "dif": 7,
+      "puntos": 7
+    },
+    {
+      "equipo": "SAN ANTONIO DEL CALLAO",
+      "pj": 4,
+      "goles_mas": 10,
+      "goles_menos": 6,
+      "dif": 4,
+      "puntos": 7
+    },
+    {
+      "equipo": "CIFO",
+      "pj": 4,
+      "goles_mas": 5,
+      "goles_menos": 12,
+      "dif": -7,
+      "puntos": 3
+    },
+    {
+      "equipo": "CPB",
+      "pj": 4,
+      "goles_mas": 4,
+      "goles_menos": 25,
+      "dif": -21,
+      "puntos": 0
+    }
+  ]
+}
